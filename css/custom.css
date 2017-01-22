@@ -218,8 +218,8 @@
     border-bottom-width: 0; }
   .popover-link:hover {
     color: #fff;
-    background: #2d3d40; }
+    background: #192536; }
   .popover-link:hover,
   .popover-item:first-child .popover-link:hover:after {
-    border-bottom-color: #2d3d40; }
+    border-bottom-color: #192536; }
 }
