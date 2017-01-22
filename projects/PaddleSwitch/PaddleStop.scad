@@ -1,6 +1,6 @@
 //Paddle Stop Sign
 
-width=8; //flat to flat measurement inches (inscribed circle dia)
+width=4.5; //flat to flat measurement inches (inscribed circle dia)
 
 module inscr_circle(diameter){
    inscribed = 1/cos(180/8);
