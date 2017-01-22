@@ -3,7 +3,7 @@ boltdist=4.75; //distance between hinge bolts, center
 screwdist=.75; //distance between screw centers on hinge
 screwsize=.13; //#6
 
-leverwidth=1.25; //enter custom width to line up with lever board
+leverwidth=1.5; //enter custom width to line up with lever board
 padding=.25; //max = leverwidth/2+screwsize; default hinges are .25
 
 module drillguide(){
